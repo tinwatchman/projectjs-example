@@ -2,6 +2,7 @@
   "name": "projectjs-example",
   "version": "0.0.1",
   "description": "Sample Project.js application",
+  "main": "build/start.js",
   "author": {
     "name": "Jon Stout",
     "url": "www.jonstout.net"
